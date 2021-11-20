@@ -1,0 +1,11 @@
+{
+  "name": "backend-app",
+  "version": "1.0.0",
+  "description": "node mysql backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "backtest"
+  },
+  "author": "farhan asif",
+  "license": "ISC"
+}
